@@ -1,4 +1,4 @@
-[
+export default [
   {
     "big_area": "华北区",
     "name": "北京市",
